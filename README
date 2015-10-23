@@ -1,0 +1,8 @@
+
+Create in /tmp/hosts.local your changes to your hosts file which you want to be merged together with the downloaded.
+
+
+
+Add Heimdal.pl to /etc/cron.weekly
+
+

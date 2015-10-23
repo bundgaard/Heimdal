@@ -1,0 +1,2 @@
+1. Need to add configuration file to script, so we can have other folder for hosts.local, and not use /tmp/hosts.local
+2. Fix bugs and other
